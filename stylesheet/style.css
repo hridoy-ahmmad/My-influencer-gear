@@ -1,0 +1,18 @@
+:root{
+    /* color */
+    --primary-color:rgba(24, 25, 31, 1);
+    --secondery-color:rgba(120, 120, 133, 1);
+    --pink:#E02C6D;
+     --card-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+    /* font sizing */
+    --font-xxl:3.25rem;
+    --font-xl:2.37rem;
+    --font-lg:1.75rem;
+    --font-s:1rem;
+    --font-xs:0.875rem;
+}
+.h1{
+   font-size: var(--head1);
+   
+}
