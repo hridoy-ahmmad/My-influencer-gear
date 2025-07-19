@@ -45,8 +45,12 @@ li{
     font-size: var(--font-s);
     font-weight: bold;
     margin-top: 26px;
+    transition:  0.3s ease;
+    cursor: pointer;
     }
-
+.btn:hover{
+    transform:translateY(-.4rem);
+}
 /* header */
 header{
     margin: 0 auto;
